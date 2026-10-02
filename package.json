@@ -1,0 +1,24 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "description": "**Frontend**   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrnazkhani/mehrnazkhani.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mehrnazkhani/mehrnazkhani/issues"
+  },
+  "homepage": "https://github.com/mehrnazkhani/mehrnazkhani#readme",
+  "devDependencies": {
+    "simple-icons": "^16.33.0"
+  }
+}
