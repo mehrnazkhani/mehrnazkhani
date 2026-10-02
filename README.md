@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=160&section=header&text=Your%20Name&fontSize=42&fontColor=e6edf3&desc=Web%20Developer&descSize=16&descAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=160&section=header&text=Your%20Name&fontSize=42&fontColor=e6edf3" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
