@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="127" height="48" viewBox="0 0 127 48" role="img" aria-label="Supabase">
-  <g transform="translate(6 6)">
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="42" viewBox="0 0 121 42" role="img" aria-label="Supabase">
+  <g transform="translate(3 3)">
     <rect x="0.5" y="0.5" width="114" height="35" rx="17.5" fill="none" stroke="#3d444d"/>
     <path transform="translate(14 9) scale(0.75)" fill="#9198a1" d="M11.9 1.036c-.015-.986-1.26-1.41-1.874-.637L.764 12.05C-.33 13.427.65 15.455 2.409 15.455h9.579l.113 7.51c.014.985 1.259 1.408 1.873.636l9.262-11.653c1.093-1.375.113-3.403-1.645-3.403h-9.642z"/>
     <text x="40" y="23" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#9198a1">Supabase</text>
