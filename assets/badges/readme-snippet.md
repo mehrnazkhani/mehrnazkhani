@@ -1,4 +1,5 @@
 <p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/javascript-dark.svg"><img alt="JavaScript" src="assets/badges/javascript-light.svg"></picture></a>
 <a href="https://www.typescriptlang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/typescript-dark.svg"><img alt="TypeScript" src="assets/badges/typescript-light.svg"></picture></a>
 <a href="https://react.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/react-dark.svg"><img alt="React" src="assets/badges/react-light.svg"></picture></a>
 <a href="https://nextjs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/next-js-dark.svg"><img alt="Next.js" src="assets/badges/next-js-light.svg"></picture></a>

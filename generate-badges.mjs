@@ -8,6 +8,7 @@ const customIcons = {
 };
 
 const stack = [
+  ["JavaScript", "siJavascript", "https://developer.mozilla.org/en-US/docs/Web/JavaScript"],
   ["TypeScript", "siTypescript", "https://www.typescriptlang.org"],
   ["React", "siReact", "https://react.dev"],
   ["Next.js", "siNextdotjs", "https://nextjs.org"],
@@ -21,7 +22,7 @@ const stack = [
 ];
 
 const rows = [
-  ["TypeScript", "React", "Next.js", "Tailwind CSS"],
+  ["JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS"],
   ["Zod", "React Hook Form", "Zustand", "TanStack Query"],
   ["Vitest", "Supabase"],
 ];
